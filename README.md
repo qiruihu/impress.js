@@ -7,6 +7,7 @@ transitions in modern browsers and inspired by the idea behind prezi.com.
 **WARNING**
 
 impress.js may not help you if you have nothing interesting to say ;)
+This is a fork of impress.js, intended as a quick start for some students.
 
 
 HOW TO USE IT
